@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is anas ben raies and I'm a Backend Engineering Wizzard 🧙‍♂️</h2>
+<h2 align="left">Hi 👋! My name is Anas Ben Raies and I'm a Backend Engineering Wizard 🧙‍♂️</h2>
 
 ###
 
@@ -75,8 +75,12 @@
 
 ###
 
-<br clear="both">
+<h3 align="left">🖥️ Typing away, making magic happen!</h3>
 
-<img src="https://raw.githubusercontent.com/anasbenraies/anasbenraies/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img height="450" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJzemM5cG9mZTFhMGc1eHI0Z2xnb2F6YnZqc2R2NmVvM3VsdnAyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 
 ###
