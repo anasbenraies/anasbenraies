@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anas Ben Raies and I'm a Backend Engineering Wizard 🧙‍♂️</h2>
+<h2 align="left">Hi 👋! My name is anas ben raies and I'm a Backend Engineering Wizzard 🧙‍♂️</h2>
 
 ###
 
@@ -51,6 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
 </div>
