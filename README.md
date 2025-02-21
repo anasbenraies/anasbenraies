@@ -2,7 +2,7 @@
 
 ### 
 
-<h3 align="left">A Bit About Me:</h3>
+<h3 align="left">A Bit About Me :</h3>
 
 ###
 
